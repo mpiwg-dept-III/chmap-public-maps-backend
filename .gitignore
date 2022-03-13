@@ -1,0 +1,15 @@
+# Dependency directories
+node_modules/
+
+# Build / generate output
+dist
+
+# dotenv environment variable files
+.env_*
+
+# IDE directory
+.idea
+
+package-lock.json
+yarn-error.log
+yarn.lock
